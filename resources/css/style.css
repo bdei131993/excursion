@@ -1,0 +1,87 @@
+html {
+    background-color: black;
+}
+body {
+    text-align: center;
+}
+ p .header {
+    position: relative;
+    top: 1rem;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white; 
+}
+p a {
+    position: relative;
+    top: 2rem;
+    color: aquamarine;
+    font-size: 20px;
+}
+p video {
+    position: relative;
+    top: 3rem;
+}
+p .your-ptg {
+    position: relative;
+    top: 3rem;
+    font-family: Verdana ;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+p .excursion-re {
+    position: relative;
+    top: 4.5rem;
+    font-family: Verdana ;
+    font-size: 21px;
+    color: gray;
+}
+.landscape-cont {
+    position: relative;
+    top :7rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.div-landscape {
+    width: 60%;
+}
+.div-landscape img {
+    width: 100%;
+}
+.phone-cont {
+    position: relative;
+    top: 10rem;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.div-phone {
+    width: 5%;
+}
+
+.div-phone img {
+    width: 100% ;
+}
+.coming-soon {
+    position: relative;
+    top: 9rem;
+    font-family: Verdana ;
+    font-weight: 300;
+    font-size: 42px;
+    color: white; 
+}
+.down-download {
+    position: relative;
+    top: 9rem;
+    color: aquamarine;
+    font-size: 20px; 
+}
+.copy-right {
+    position: relative;
+    top: 11rem;
+    color: white;
+    text-align: right;
+    padding :2rem;
+}
